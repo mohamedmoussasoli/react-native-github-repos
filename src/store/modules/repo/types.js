@@ -1,0 +1,9 @@
+const NAMESPACE = 'REPO_';
+
+export const FETCH_REPOS = NAMESPACE + 'FETCH';
+export const FETCHING_REPOS = NAMESPACE + 'FETCHING';
+export const SAVE_REPOS = NAMESPACE + 'SAVE';
+export const TOGGLE_FAVORITE_REPO = NAMESPACE + 'TOGGLE_FAVORITE';
+export const DELETE_REPO = NAMESPACE + 'DELETE';
+
+
